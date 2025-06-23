@@ -5,9 +5,9 @@
     "passes": 13,
     "pending": 0,
     "failures": 0,
-    "start": "2025-06-22T21:10:44.986Z",
-    "end": "2025-06-22T21:10:45.380Z",
-    "duration": 394
+    "start": "2025-06-23T09:20:05.988Z",
+    "end": "2025-06-23T09:20:06.568Z",
+    "duration": 580
   },
   "tests": [
     {
@@ -76,7 +76,7 @@
     {
       "title": "is a function",
       "fullTitle": "index.js fareTripler() is a function",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -171,7 +171,7 @@
     {
       "title": "is a function",
       "fullTitle": "index.js fareTripler() is a function",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
